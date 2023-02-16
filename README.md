@@ -5,7 +5,7 @@ Build a model that does localization and classification(from scratch) on the Oxf
 
 ## Objective of this notebook
 - The purpose of this notebook is to build a model that performs object classification and localisation in one network
-- Details of the **problem statement**  , **data set** ,  **summary of the code/solution**  , **sample output/Prediction** from the program and **final result** of the project are listed in the sections to follow.
+- Details of the **problem statement**  , **data set** ,**model architecture**, **summary of the code/solution**  , **sample output/Prediction** from the program and **final result** of the project are listed in the sections to follow.
 
 ## Problem Statement 
 Build a model to that performs object classification and localisation
@@ -14,6 +14,11 @@ Build a model to that performs object classification and localisation
 ## Data Description:
  - Data Set :Oxford IIT Pet Data 
  - Link : https://www.robots.ox.ac.uk/~vgg/data/pets/
+ 
+## Model Architecture 
+
+![image](https://user-images.githubusercontent.com/68383273/219476625-e40edb90-adc8-4b72-bd30-26c6eede4b6e.png)
+
 
 
 ## Summary of the Solution/Code:
